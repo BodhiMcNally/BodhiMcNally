@@ -1,5 +1,9 @@
 <h1>Hi👋, I'm Bodhi </h1>
-<p>A data-informed strategist working at the intersection of pharmaceutical sales and analytics. With a background in genetics and data science, I help drive smarter business decisions by transforming healthcare data into actionable commercial insights. I’m passionate about using data not just to understand the world but to improve it.  </p>
+<p>Doctor of Medicine student at the University of Sydney with a Bachelor of Science completed as a double major in Data Science and Genetics and Genomics.
+
+My background is in applied analytics across healthcare systems, with experience spanning clinical data, population-level insights and reproducible research workflows. I’m interested in how quantitative methods can support clinical decision-making, improve research quality and strengthen the systems that underpin patient care.
+
+Alongside medical school, I teach statistics and data science as a Casual Academic in the School of Mathematics and Statistics at the University of Sydney, where I focus on analytical reasoning, reproducibility and clear communication. </p>
 <h2>🚀 Languages and Tools I Use</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
