@@ -66,6 +66,8 @@ Beyond research and teaching, I have held senior leadership and governance roles
 <h2>⚡ Where to find me</h2>
 
 <p>
+  <a target="_blank" href="https://bodhimcnally.com"> <img src="https://img.shields.io/badge/Website-bodhimcnally.com-6e2538?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal Website" /> </a>
+
   <a target="_blank" href="https://www.linkedin.com/in/bodhi-mcnally">
     <img
       src="https://img.shields.io/badge/LinkedIn-Bodhi%20McNally-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
